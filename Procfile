@@ -1,1 +1,1 @@
-web: python main.py
+web: python Telegrambot1.py
